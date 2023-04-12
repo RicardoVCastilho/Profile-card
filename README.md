@@ -7,11 +7,11 @@ Primeiro projeto confeccionado através do Frontend Mentor, nível: Newbie, com 
 
 ## Layout esperado Desktop:
 Um layout no formato de um desktop, retirado do exemplo do Frontend Mentor, com dados fictícios.
-<img src="./design/modelo-imagem-desktop" alt="modelo de exemplo do profile-card do tamanho de um desktop">
+<img src="./src/design/modelo-imagem-desktop.png" alt="modelo de exemplo do profile-card do tamanho de um desktop">
 
 ## Layout Esperado Mobie:
 Um layout no formato de um dispositivo mobile, retirado do exemplo do Frontend Mentor, com dados fictícios.
-<img src="./design/modelo-imagem-mobile" alt="modelo de exemplo do profile-card do tamanho mobile">
+<img src="./src/design/modelo-imagem-mobile.png" alt="modelo de exemplo do profile-card do tamanho mobile">
 
 ## Serviços usados
 - VSCode
